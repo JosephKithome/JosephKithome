@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @JosephKithome
 - 👀 I’m interested in Backend development with 3 years of experience.
-- 🌱 I’m currently learning Angular
+- 🌱 I’m  Angular Developer
+- ✨I write ReactJs try me!
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me jmulingwakithome.jmk@gmail.com, +254717064174
 
