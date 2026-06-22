@@ -2,6 +2,10 @@
 - 👀 I’m interested in Backend development with 5+ years of experience.
 - 🌱 I’m  Angular Developer
 - ✨I write ReactJs try me!
+- I write VueJs
+- I'm a Java Springboot developer
+- I'm a NodeJs developer
+- I'm a Gopher(Golang)
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me jmulingwakithome.jmk@gmail.com, +254717064174
 
