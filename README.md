@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @JosephKithome
+- CEO & Founder https://moneyme.co.ke https://mianisystems.co.ke https://tenant.mianilabs.com
 - 👀 I’m interested in Backend development with 5+ years of experience.
 - 🌱 I’m  Angular Developer
 - ✨I write ReactJs try me!
